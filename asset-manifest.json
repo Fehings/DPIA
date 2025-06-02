@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/DPIA/static/css/main.f855e6bc.css",
+    "main.js": "/DPIA/static/js/main.498467e4.js",
+    "static/js/453.c3fc9e35.chunk.js": "/DPIA/static/js/453.c3fc9e35.chunk.js",
+    "static/media/logo.svg": "/DPIA/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/DPIA/index.html",
+    "main.f855e6bc.css.map": "/DPIA/static/css/main.f855e6bc.css.map",
+    "main.498467e4.js.map": "/DPIA/static/js/main.498467e4.js.map",
+    "453.c3fc9e35.chunk.js.map": "/DPIA/static/js/453.c3fc9e35.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.498467e4.js"
+  ]
+}
